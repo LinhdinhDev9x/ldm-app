@@ -22,7 +22,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "https://linhdinhdev9x.github.io/ldm-app/",
+    "homepage": "https://ldm-soft.github.io/ldm-app/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
